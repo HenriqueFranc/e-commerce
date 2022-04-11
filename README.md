@@ -1,5 +1,5 @@
-# Getting Started with Create React App
+# E-Commerce
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Um simples exemplo de uma lista de produtos de um E-commerce.
+Esse projeto busca praticar conceitos de React + Axios para buscar dados de uma API, são utilizados também o React Router para definição de Rotas
 ![alt text](https://github.com/HenriqueFranc/e-commerce/blob/main/project_commerce.jpg)
